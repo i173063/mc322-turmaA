@@ -147,5 +147,5 @@ public class Seguradora {
 		System.out.printf("O preço da receita é %.1f\n", receita);
 	}
 }
-
+//
 

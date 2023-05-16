@@ -15,3 +15,4 @@ public enum CalcSeguro {
 		return valor;
 	}
 }
+//

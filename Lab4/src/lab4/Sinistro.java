@@ -67,5 +67,5 @@ public class Sinistro {
 	+ "\nSeguradora: " + this.seguradora.getNome() + "\nVeiculo: " + this.veiculo;
 	}
 }
-
+//
 

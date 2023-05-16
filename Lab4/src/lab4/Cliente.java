@@ -52,4 +52,4 @@ public class Cliente {
 	+ this.endereco + ", Veiculos: " + this.listaVeiculos + ", Valor do Seguro: " + this.valorSeguro;
 	}
 }
-
+//
